@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Note-Todo-React](https://github.com/HarmanPreet-Singh-XYT/NoteTodo_App)
+- 🔭 I’m currently working on Personal Project
 
-- 🌱 I’m currently learning **React and its tools,C++ DSA**
+- 🌱 I’m currently learning **C++ DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarmanPreet-Singh-XYT?tab=repositories](https://github.com/HarmanPreet-Singh-XYT?tab=repositories)
 
@@ -75,7 +75,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmanpreet-singh-xyt&show_icons=true&locale=en" alt="harmanpreet-singh-xyt" /></p>
