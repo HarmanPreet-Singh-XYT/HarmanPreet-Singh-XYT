@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harman</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 - 🔭 I’m currently working on Personal Project
 
-- 🌱 I’m currently learning **C++ DSA**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarmanPreet-Singh-XYT?tab=repositories](https://github.com/HarmanPreet-Singh-XYT?tab=repositories)
 
