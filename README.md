@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on Personal Project
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarmanPreet-Singh-XYT?tab=repositories](https://github.com/HarmanPreet-Singh-XYT?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **harmanpreetsingh@programmer.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/preetsinghharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preetsinghharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harmanpreet-singh-016579228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmanpreet-singh-016579228" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gaming x yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming x yt" height="30" width="40" /></a>
+<a href="https://twitter.com/harmanpreet277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harmanpreet277" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harman-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmanpreet-singh-016579228" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@HarmanDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="HarmanDev" height="30" width="40" /></a>
 <a href="https://discord.gg/wQ9dVqwPzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wQ9dVqwPzx" height="30" width="40" /></a>
 </p>
 
