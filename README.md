@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HarmanPreet-Singh-XYT?tab=repositories](https://github.com/HarmanPreet-Singh-XYT?tab=repositories)
+- 👨‍💻 Most of my projects are available at [Portfolio Site](https://harman.vercel.app)
 
 - 💬 Ask me about **Development**
 
