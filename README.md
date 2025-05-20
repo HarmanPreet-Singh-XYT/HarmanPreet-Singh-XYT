@@ -85,3 +85,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmanpreet-singh-xyt&show_icons=true&locale=en" alt="harmanpreet-singh-xyt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=harmanpreet-singh-xyt&theme=light" alt="harmanpreet-singh-xyt" /></p>
+
+<div align="center">
+   <img width="45%" src="https://github.com/HarmanPreet-Singh-XYT/github-stats/blob/master/generated/overview.svg?raw=true" /> <img width="45%" src="https://github.com/HarmanPreet-Singh-XYT/github-stats/blob/master/generated/languages.svg?raw=true" />
+</div>
