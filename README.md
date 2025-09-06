@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Personal Project
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 Most of my projects are available at [Portfolio Site](https://harman.vercel.app)
 
