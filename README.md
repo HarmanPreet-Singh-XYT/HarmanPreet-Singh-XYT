@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **harmanpreetsingh@programmer.net**, sometimes you may not receive message back so better to communicate through discord @harmanpreet_singh
+- 📫 How to reach me **harman@harmanita.com**, sometimes you may not receive message back so better to communicate through discord @harmanpreet_singh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
