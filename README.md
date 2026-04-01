@@ -20,22 +20,22 @@ Building production systems that ship to real users — from AI agent architectu
 
 ### 🔧 Featured Projects
 
-**[CodiLay](https://github.com/harmanpreet-singh-xyt) — AI Codebase Documentation Agent**
+**[CodiLay](https://github.com/HarmanPreet-Singh-XYT/codilay) — AI Codebase Documentation Agent**
 > 25,000+ line Python CLI agent that autonomously reads unfamiliar codebases and generates structured documentation. Engineered parallel workers with hallucination guards achieving 3–8x speedup. Full-stack web UI with 3-layer chat system and 500+ passing tests.
 >
 > `Python` `FastAPI` `LLM Agents` `TF-IDF` `D3.js`
 
-**[Scolect](https://github.com/harmanpreet-singh-xyt) — Screen Time & App Usage Tracker**
+**[Scolect](https://github.com/HarmanPreet-Singh-XYT/Scolect-ScreenTimeApp) — Screen Time & App Usage Tracker**
 > Cross-platform desktop app shipped to **1,000+ active users** via Microsoft Store. High-performance C++ monitoring kernel with sub-1% CPU overhead. Go/Gin REST API backend with PostgreSQL, supporting 10+ languages.
 >
 > `C++` `Go/Gin` `PostgreSQL` `Flutter` `Swift`
 
-**[CoCivil](https://github.com/harmanpreet-singh-xyt) — Site Feasibility Copilot**
+**[CoCivil](https://github.com/HarmanPreet-Singh-XYT/CoCivil-AI-Powered-Civil-Development-Platform) — Site Feasibility Copilot**
 > Google "Build with AI" winner — turns zoning by-laws into instant feasibility insights. PostGIS geospatial backend, 3D building visualization with Three.js, and deterministic compliance engine constraining LLM outputs to verified policy data.
 >
 > `Python` `FastAPI` `PostGIS` `Three.js` `MapLibre GL JS`
 
-**[ScholarMatch AI](https://github.com/harmanpreet-singh-xyt) — Multi-Agent Scholarship Matcher**
+**[ScholarMatch AI](https://github.com/HarmanPreet-Singh-XYT/Anthropic_Hackathon_2025) — Multi-Agent Scholarship Matcher**
 > 7 specialized LangGraph agents with fault-isolated REST communication and WebSocket streaming. RAG pipeline with ChromaDB achieving 80% semantic precision. OAuth 2.0 + Stripe billing.
 >
 > `Python` `LangGraph` `RAG` `ChromaDB` `React.js` `PostgreSQL`
