@@ -1,87 +1,85 @@
-<h1 align="center">Hi 👋, I'm Harman</h1>
-<h3 align="center">A passionate Developer from Canada</h3>
+# Harmanpreet Singh
 
-- 🔭 I’m currently working on Personal Project
+**Full-Stack Developer · AI/ML Engineer · Hackathon Winner**
 
-- 🌱 I’m currently learning **AI/ML**
+Building production systems that ship to real users — from AI agent architectures to cross-platform desktop apps with 1,000+ active users.
 
-- 👨‍💻 Most of my projects are available at [Portfolio Site](https://harman.vercel.app)
+📍 Oshawa, ON &nbsp;|&nbsp; 📧 harman@harmanita.com &nbsp;|&nbsp; 🌐 [Portfolio](https://harman.vercel.app) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/harman-developer)
 
-- 💬 Ask me about **Development**
+---
 
-- 📫 How to reach me **harman@harmanita.com**, sometimes you may not receive message back so better to communicate through discord @harmanpreet_singh
+### 🏆 Hackathon Wins
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harmanpreet277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harmanpreet277" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harman-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmanpreet-singh-016579228" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@HarmanDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="HarmanDev" height="30" width="40" /></a>
-<a href="https://discord.gg/wQ9dVqwPzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wQ9dVqwPzx" height="30" width="40" /></a>
+| Event | Project | Result |
+|-------|---------|--------|
+| **Hack Canada 2026** | [CoCivil](https://devpost.com) — AI copilot for civil engineers | 🥇 Google "Build with AI" Winner (500+ hackers) |
+| **MUES Hackathon** | Real-time collaborative WebSocket platform | 🥇 1st Place |
+| **Anthropic Hackathon (Toronto)** | [ScholarMatch AI](https://github.com/harmanpreet-singh-xyt) — 7-agent LangGraph system | 🏅 Honorable Mention |
+
+---
+
+### 🔧 Featured Projects
+
+**[CodiLay](https://github.com/harmanpreet-singh-xyt) — AI Codebase Documentation Agent**
+> 25,000+ line Python CLI agent that autonomously reads unfamiliar codebases and generates structured documentation. Engineered parallel workers with hallucination guards achieving 3–8x speedup. Full-stack web UI with 3-layer chat system and 500+ passing tests.
+>
+> `Python` `FastAPI` `LLM Agents` `TF-IDF` `D3.js`
+
+**[Scolect](https://github.com/harmanpreet-singh-xyt) — Screen Time & App Usage Tracker**
+> Cross-platform desktop app shipped to **1,000+ active users** via Microsoft Store. High-performance C++ monitoring kernel with sub-1% CPU overhead. Go/Gin REST API backend with PostgreSQL, supporting 10+ languages.
+>
+> `C++` `Go/Gin` `PostgreSQL` `Flutter` `Swift`
+
+**[CoCivil](https://github.com/harmanpreet-singh-xyt) — Site Feasibility Copilot**
+> Google "Build with AI" winner — turns zoning by-laws into instant feasibility insights. PostGIS geospatial backend, 3D building visualization with Three.js, and deterministic compliance engine constraining LLM outputs to verified policy data.
+>
+> `Python` `FastAPI` `PostGIS` `Three.js` `MapLibre GL JS`
+
+**[ScholarMatch AI](https://github.com/harmanpreet-singh-xyt) — Multi-Agent Scholarship Matcher**
+> 7 specialized LangGraph agents with fault-isolated REST communication and WebSocket streaming. RAG pipeline with ChromaDB achieving 80% semantic precision. OAuth 2.0 + Stripe billing.
+>
+> `Python` `LangGraph` `RAG` `ChromaDB` `React.js` `PostgreSQL`
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `Python` `C/C++` `Go` `SQL` `Swift` `Java`
+
+**Frontend**
+`React.js` `Next.js` `Tailwind CSS` `SASS` `React Native` `Flutter`
+
+**Backend & APIs**
+`Node.js` `Express` `FastAPI` `Flask` `Django` `Go/Gin` `WebSockets`
+
+**AI/ML**
+`LangGraph` `LangChain` `RAG` `ChromaDB` `Scikit-Learn` `Transformers` `Computer Vision`
+
+**Databases**
+`PostgreSQL` `PostGIS` `MongoDB` `MySQL` `Redis` `Supabase` `Firestore`
+
+**Cloud & DevOps**
+`AWS (S3, EC2, Lambda)` `GCP` `Docker` `CI/CD` `Prometheus` `Grafana` `Kubernetes`
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=harmanpreet-singh-xyt&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=harmanpreet-singh-xyt&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 
+### 📬 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmanpreet-singh-xyt&show_icons=true&locale=en" alt="harmanpreet-singh-xyt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=harmanpreet-singh-xyt&theme=light" alt="harmanpreet-singh-xyt" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harman-developer)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@HarmanDeveloper)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/harmanpreet277)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/wQ9dVqwPzx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://harman.vercel.app)
