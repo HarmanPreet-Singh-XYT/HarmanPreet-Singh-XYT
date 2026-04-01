@@ -67,7 +67,7 @@ Building production systems that ship to real users — from AI agent architectu
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=harmanpreet-singh-xyt&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-delta-cyan-89.vercel.app/api?username=harmanpreet-singh-xyt&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p>
